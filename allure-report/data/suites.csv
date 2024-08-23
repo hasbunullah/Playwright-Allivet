@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","53716","Verify that the user can add a pet","chromium","Thu Aug 22 16:34:31 PKT 2024","passed","Thu Aug 22 16:35:24 PKT 2024","","MyPetsPage.spec.js","",""
+"","125136","User is able to add an item to the cart and checkout","chromium","Thu Aug 22 16:33:34 PKT 2024","failed","Thu Aug 22 16:35:39 PKT 2024","","Checkout.spec.js","",""
+"","68813","Verify that the sum of the product price is correct","chromium","Thu Aug 22 16:32:28 PKT 2024","passed","Thu Aug 22 16:33:37 PKT 2024","","CartPage.spec.js","",""
+"","80155","Verify that the user can Remove a pet","chromium","Thu Aug 22 16:35:24 PKT 2024","broken","Thu Aug 22 16:36:45 PKT 2024","","MyPetsPage.spec.js","",""
+"","23317","Verfiy that user can create an account","chromium","Thu Aug 22 16:33:44 PKT 2024","passed","Thu Aug 22 16:34:07 PKT 2024","","LoginPage.spec.js","",""
+"","65402","Verify the product is added to the cart","chromium","Thu Aug 22 16:32:28 PKT 2024","passed","Thu Aug 22 16:33:34 PKT 2024","","CartPage.spec.js","",""
+"","23663","Verify that the user can login with valid credentials","chromium","Thu Aug 22 16:34:07 PKT 2024","passed","Thu Aug 22 16:34:31 PKT 2024","","LoginPage.spec.js","",""
